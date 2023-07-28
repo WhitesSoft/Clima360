@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Clima360</string>
+    <string name="hoy">Hoy</string>
+    <string name="lunes_27">Lunes 27</string>
+    <string name="parcialmente_nublado">Parcialmente nublado</string>
+    <string name="_25_c">25 °C</string>
+    <string name="_22">22%</string>
+    <string name="humedad">Humedad</string>
+    <string name="p_de_lluvia">P. de lluvia</string>
+    <string name="pr_ximos_7_d_as">Próximos 7 días</string>
 </resources>
